@@ -21,5 +21,4 @@ El enfoque principal es la maquetación, el uso de Flexbox y el diseño responsi
 
 ## Cómo ejecutarlo
 
-No requiere instalación. Solo abre el archivo `index.html` directamente
-en tu navegador.
+No requiere instalación. Abrir unicamente el archivo index.html
